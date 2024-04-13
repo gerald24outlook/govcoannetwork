@@ -1,1 +1,14 @@
-govcoannetwork.wordpress.com
+{
+    "domain": "com",
+    "subdomain": "network",
+
+    "owner": {
+        "email": "govcoannetwork@k@gmail.com"
+    },
+
+    "records": {
+        "CNAME": "govcoannetwork.github.io"
+    },
+
+    "proxied": false
+}
