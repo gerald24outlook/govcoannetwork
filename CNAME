@@ -1,1 +1,14 @@
-govcoan.network.com
+{
+    "domain": "com",
+    "subdomain": "network",
+
+    "owner": {
+        "email": "govcoannetwork@k@gmail.com"
+    },
+
+    "records": {
+        "CNAME": "govcoan.network.com"
+    },
+
+    "proxied": false
+}
